@@ -1,17 +1,33 @@
 # Watermarking-x-ray images
+
 Gewährleistung der Integrität von radiologischen Bilddaten mittels technischer Verfahren.
+
+Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder 
+und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen.
+In Form einer modifizierten Pretest-Posttest-Studie wurden ausgewählte Nachbearbeitungsmethoden, 
+darunter Rotation, Zuschneiden und Kontrastanpassung in unterschiedlichen Abwandlungen, angewendet. 
+Die Ergebnisse wurden in Form einer deskriptiven Statistik ausgewertet. 
+In der Pretest-Messung erzielte das Röntgenbild mit eingebetteten Wasserzeichen einen PSNR-Wert von 25,27 dB, als Basiswert. 
+Nach allen Interventionen wurde in den Posttest-Messungen eine Reduktion des PSNR-Wertes verzeichnet. Ziel war es zu erforschen, 
+ob Nachbearbeitungen eines Projektionsradiografiebildes Auswirkungen auf den PSNR-Wert und der einhergehenden Wahrnehmbarkeit haben.
 
 Ensuring the integrity of radiological image data trough technical methods.
 
+Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects.
+In the form of a modified pretest-posttest study, selected postprocessing methods, including rotation, cropping and contrast 
+adjustment in various variations, were applied. The results were evaluated in the form of descriptive statistics. 
+In the pretest phase, the x-ray image with an embedded watermark achieved a PSNR value of 25,27 dB, as a benchmark value. 
+After all interventions, a reduction in the PSNR value was recorded in the posttest measurements. 
+The aim was to research whether postprocessing of x-ray images influenced the PSNR value and the associated imperceptibility.
+
 von Tuan Luu 
 
-Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects.
-Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder 
-und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen. Aufgrund der Größe ist die gesamte Datei unterteilt hochgeladen worden. 
-Ein Teil beinhaltet den Einbettungsprozess und alle dazugehörigen Skripte, Klassen und Funktionen. Der andere Teil enthält die 
-Nachbearbeitungen und die dazugehörigen PSNR-Messungen. 
 
 Einführung: 
+
+Aufgrund der Größe ist die gesamte Datei unterteilt hochgeladen worden. 
+Ein Teil beinhaltet den Einbettungsprozess und alle dazugehörigen Skripte, Klassen und Funktionen. Der andere Teil enthält die 
+Nachbearbeitungen und die dazugehörigen PSNR-Messungen. 
 
 In den folgenden Zeilen soll der gesamte Ablauf der experimentellen 
 Pretest-Posttest Studie beschrieben werden, die im Rahmen der Bachelorarbeit 
