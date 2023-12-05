@@ -1,15 +1,22 @@
 # Watermarking-x-ray images
-Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects.
-Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen. Aufgrund der Größe ist die gesamte Datei unterteilt hochgeladen worden.  Ein Teil beinhaltet den Einbettungsprozess und alle dazugehörigen Skripte, Klassen und Funktionen. Der andere Teil enthält die Nachbearbeitungen und die dazugehörigen PSNR-Messungen. 
+Gewährleistung der Integrität von radiologischen Bilddaten mittels technischer Verfahren.
+Ensuring the integrity of radiological image data trough technical methods
+Tuan Luu 
 
+Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects.
+Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder 
+und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen. Aufgrund der Größe ist die gesamte Datei unterteilt hochgeladen worden. 
+Ein Teil beinhaltet den Einbettungsprozess und alle dazugehörigen Skripte, Klassen und Funktionen. Der andere Teil enthält die 
+Nachbearbeitungen und die dazugehörigen PSNR-Messungen. 
+-------------------------------------------------------------------------------------------------------------------------------------------
 Einführung: 
 
-In den folgenden Zeilen soll der gesamte Ablauf der experimentellen Pretest
-- Posttest Studie beschrieben werden, die im Rahmen der Bachelorarbeit 
+In den folgenden Zeilen soll der gesamte Ablauf der experimentellen 
+Pretest-Posttest Studie beschrieben werden, die im Rahmen der Bachelorarbeit 
 „Gewährleistung der Integrität von radiologischen Bilddaten mittels 
 technischer Verfahren“ ausgeführt wurde. 
 Die Einbettung des Wasserzeichens soll dem Schema der Studie von 
-Arahagi et al., 
+Arahagi et al.,2019 
 „An enhanced hybrid image watermarking scheme for security of medical 
 and non-medical images based on DWT and 2-D SVD”, folgen. 
 
