@@ -20,7 +20,7 @@ In the pretest phase, the x-ray image with an embedded watermark achieved a PSNR
 After all interventions, a reduction in the PSNR value was recorded in the posttest measurements. 
 The aim was to research whether postprocessing of x-ray images influenced the PSNR value and the associated imperceptibility.
 
-von Tuan Luu 
+von Tuan Luu 12/2023
 
 
 Einführung: 
