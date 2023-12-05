@@ -1,6 +1,6 @@
 # Watermarking-x-ray images
 Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects.
-Einbetten eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder und Berechnung des PSNR, um die Auswirkungen zu untersuchen.
+Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen.
 
 Einführung: 
 
