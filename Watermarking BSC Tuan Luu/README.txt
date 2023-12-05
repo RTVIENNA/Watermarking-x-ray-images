@@ -1,12 +1,27 @@
+Gewährleistung der Integrität von radiologischen Bilddaten mittels technischer Verfahren.
+
+Einbettung eines Wasserzeichens in ein Röntgenbild. Nachbearbeitung der mit Wasserzeichen versehenen Röntgenbilder 
+und Berechnung des PSNR-Werts, um die Auswirkungen zu untersuchen. In Form einer modifizierten Pretest-Posttest-Studie 
+wurden ausgewählte Nachbearbeitungsmethoden, darunter Rotation, Zuschneiden und Kontrastanpassung in unterschiedlichen 
+Abwandlungen, angewendet. Die Ergebnisse wurden in Form einer deskriptiven Statistik ausgewertet. In der Pretest-Messung 
+erzielte das Röntgenbild mit eingebetteten Wasserzeichen einen PSNR-Wert von 25,27 dB, als Basiswert. Nach allen 
+Interventionen wurde in den Posttest-Messungen eine Reduktion des PSNR-Wertes verzeichnet. Ziel war es zu erforschen, 
+ob Nachbearbeitungen eines Projektionsradiografiebildes Auswirkungen auf den PSNR-Wert und der einhergehenden Wahrnehmbarkeit haben.
+
+Ensuring the integrity of radiological image data trough technical methods.
+
+Embedding a watermark in a x-ray image. Post-processing of watermarked x-ray images and calculating PSNR to study the effects. 
+In the form of a modified pretest-posttest study, selected postprocessing methods, including rotation, cropping and contrast 
+adjustment in various variations, were applied. The results were evaluated in the form of descriptive statistics. In the pretest phase, 
+the x-ray image with an embedded watermark achieved a PSNR value of 25,27 dB, as a benchmark value. After all interventions, a reduction 
+in the PSNR value was recorded in the posttest measurements. The aim was to research whether postprocessing of x-ray images influenced 
+the PSNR value and the associated imperceptibility.
+
 
 In den folgenden Zeilen soll der gesamte Ablauf der experimentellen Pretest
 - Posttest Studie beschrieben werden, die im Rahmen der Bachelorarbeit 
 „Gewährleistung der Integrität von radiologischen Bilddaten mittels 
 technischer Verfahren“ ausgeführt wurde. 
-Die Einbettung des Wasserzeichens soll dem Schema der Studie von 
-Arahagi et al., 
-„An enhanced hybrid image watermarking scheme for security of medical 
-and non-medical images based on DWT and 2-D SVD”, folgen. 
 
 Die Funktion Example.m durchläuft den gesamten Einbettungsprozess des 
 Wasserzeichens, die Erstellung der Hash Funktion, 
@@ -26,5 +41,4 @@ und Messungen mit und ohne Wasserzeichen sich in eigenen Ordnern befinden.
 Zur Ausführung der Nachbearbeitungen und Messungen müssen die Ordner 
 jedoch a priori dem Pfad hinzugefügt werden. 
 
-
- 
+Tuan Luu 12/2023
